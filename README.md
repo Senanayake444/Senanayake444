@@ -43,7 +43,17 @@ My technical expertise spans both front-end and back-end ecosystems working with
 Let's connect and build something great together! 🚀👋🏻
 
 </section>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Niranja/Niranja/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
+<div align="center" width="80">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C6C07&width=435&lines=Wellcome+to+Niranja+Git+hub" alt="Typing SVG" /></a>
+
+</div>
+
+<div align="center" width="120">
 <hr>
 <section>
 

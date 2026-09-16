@@ -99,11 +99,11 @@ Let's connect and build something great together! 🚀👋🏻
 <tr>
   <td>
     
-  ![](https://github-readme-stats.shion.dev/api?username=jfmartinz&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.shion.dev/api?username=Niranja&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)
   </td>
   <td>
 
-   ![](https://streak-stats.demolab.com/?user=jfmartinz&theme=discord_old_blurple&hide_border=true)  
+   ![](https://streak-stats.demolab.com/?user=Niranja&theme=discord_old_blurple&hide_border=true)  
   </td>
 </tr>
 </table>
@@ -111,4 +111,4 @@ Let's connect and build something great together! 🚀👋🏻
 
 ### Holopin Badges 🏷️
 
-[![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
+[![An image of Niranja Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Niranja)](https://holopin.io/@Niranja)

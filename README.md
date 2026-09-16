@@ -38,7 +38,7 @@
 ### About me☕
 I am a passionate Software Engineer and Full-Stack Developer dedicated to building functional, user-centric digital solutions. I hold a Pearson BTEC Higher National Diploma in Software Engineering alongside an NVQ Level 5 National Diploma in ICT. 
 
-My technical expertise spans both front-end and back-end ecosystems—working with languages and tools like Java, Python, JavaScript, PHP, React, and Laravel. In addition to coding, I have a deep interest in UI/UX design, utilizing Figma to create intuitive interface layouts. Beyond software engineering, I am an active contributor to microstock platforms through freelance photography and enjoy working with compact hardware setups.
+My technical expertise spans both front-end and back-end ecosystems working with languages and tools like Java, Python, JavaScript, PHP, React, and Laravel. In addition to coding, I have a deep interest in UI/UX design, utilizing Figma to create intuitive interface layouts. Beyond software engineering, I am an active contributor to microstock platforms through freelance photography and enjoy working with compact hardware setups.
 
 Let's connect and build something great together! 🚀👋🏻
 

@@ -6,7 +6,7 @@
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
-      <a href="www.linkedin.com/in/niranja-sandamal" />  My Portfolio  
+      <a href="https://app.notion.com/p/S-R-Niranja-Sandamal-93eb823033488299b3e58142b520d97a?source=copy_link" />  My Portfolio  
     </th> 
     <th>
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   

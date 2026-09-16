@@ -87,28 +87,8 @@ Let's connect and build something great together! 🚀👋🏻
 </table>
 
 
----
-### Latest Blog Posts 📍
-<!-- BLOG-POST-LIST:START -->
--
-<!-- BLOG-POST-LIST:END -->
-
-<hr>
-
-<table>
-<tr>
-  <td>
-    
-  ![](https://github-readme-stats.shion.dev/api?username=Niranja&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)
-  </td>
-  <td>
-
-   ![](https://streak-stats.demolab.com/?user=Niranja&theme=discord_old_blurple&hide_border=true)  
   </td>
 </tr>
 </table>
 </section>
 
-### Holopin Badges 🏷️
-
-[![An image of Niranja Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Niranja)](https://holopin.io/@Niranja)

@@ -19,11 +19,11 @@
     </th> 
      <th>
        <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
-        <a href="https://leetcode.com/u/jfmartinz/">LeetCode</a>
+        <a href="https://leetcode.com/u//">LeetCode</a>
     </th>
      <th>
        <img width="24" height="24" align="center" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
-      <a href="https://twitter.com/jfmartinz" />   𝕏 (Twitter)
+      <a href="https://twitter.com/" />   𝕏 (Twitter)
     </th> 
   </tr>
   
@@ -36,12 +36,12 @@
 
 
 ### About me☕
+I am a passionate Software Engineer and Full-Stack Developer dedicated to building functional, user-centric digital solutions. I hold a Pearson BTEC Higher National Diploma in Software Engineering alongside an NVQ Level 5 National Diploma in ICT. 
 
-Computer Science graduate from the University of Nueva Caceres with proficiency in HTML, CSS, JavaScript, React, TypeScript, Git, and GitHub. I enjoy contributing to open source and have participated in programs like GirlScript Summer of Code ([GSSOC](https://gssoc.girlscript.tech/)), [Hacktoberfest](https://hacktoberfest.com/), and Social Winter of Code ([SWOC](https://www.socialwinterofcode.com/)). Completed a three-month MERN Stack Development internship program at [SmartBridge](https://thesmartbridge.com/), where I gained hands-on experience with full-stack web development. 
+My technical expertise spans both front-end and back-end ecosystems—working with languages and tools like Java, Python, JavaScript, PHP, React, and Laravel. In addition to coding, I have a deep interest in UI/UX design, utilizing Figma to create intuitive interface layouts. Beyond software engineering, I am an active contributor to microstock platforms through freelance photography and enjoy working with compact hardware setups.
 
-Passionate about applying my technical knowledge to build impactful solutions, contribute to innovative projects, collaborate with others, and continuously grow as a developer.
+Let's connect and build something great together! 🚀👋🏻
 
-Let's Connect 👋🏻
 </section>
 
 <hr>

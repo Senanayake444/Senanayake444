@@ -13,9 +13,9 @@
   <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BW1Uyb5jORliUrxOXl%2BP4OQ%3D%3D" />   LinkedIn
     </th> 
         <th>
-  <a href="https://dev.to/jfmartinz" /> 
+  <a href="" /> 
   <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="dev-community"/>  
-  Dev.to blog
+  niranja blog
     </th> 
      <th>
        <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>

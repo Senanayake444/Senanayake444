@@ -6,11 +6,11 @@
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
-      <a href="https://app.notion.com/p/S-R-Niranja-Sandamal-93eb823033488299b3e58142b520d97a?source=copy_link" />  My Portfolio  
+      <a href="www.linkedin.com/in/niranja-sandamal" />  My Portfolio  
     </th> 
     <th>
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
-  <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+  <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BW1Uyb5jORliUrxOXl%2BP4OQ%3D%3D" />   LinkedIn
     </th> 
         <th>
   <a href="https://dev.to/jfmartinz" /> 
